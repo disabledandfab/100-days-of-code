@@ -27,3 +27,19 @@
 ### Day 7: March 7th, 2022
 **Today's Progress**: Completed the second project for RWD(survey form)
 **Project Link**: https://codepen.io/disabledandfab/pen/podBWYJ
+
+### Day 8: March 8th, 2022
+**Today's Progress**: Began the third RWD project (landing page)
+**Project Link**: https://codepen.io/disabledandfab/pen/MWOMaRJ
+
+### Day 9: March 9th, 2022
+**Today's Progress**: Finished RWD project #3
+**Project Link**: https://codepen.io/disabledandfab/pen/MWOMaRJ
+
+### Day 10: March 10th, 2022
+**Today's Progress**: Decided the landing page waasn't good enough, and updated it.
+**Project Link**: https://codepen.io/disabledandfab/pen/MWOMaRJ
+
+### Day 11: March 11th, 2022
+**Today's Progress**: Started and finished RWD #4 (tech documentation)
+**Project Link**: https://codepen.io/disabledandfab/pen/jOYNKyw
